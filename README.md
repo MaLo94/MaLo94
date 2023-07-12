@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <table border="0">
  <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=malo94&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&icon_color=fff&text_color=fff&card_width=400&line_height=27" /></td>
