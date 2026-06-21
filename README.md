@@ -1,24 +1,51 @@
 # Hey there, I'm Malo! 👋
 
-### 🚀 Backend & AI Systems Engineer
-I specialize in building robust backend architectures, integrating scalable AI/LLM systems, and optimizing semantic search infrastructure. I love turning complex data challenges into seamless, high-performance production applications.
+### 🚀 Senior Backend & AI Systems Engineer
+I specialize in architecting highly scalable backend systems, designing production-ready multi-agent AI workflows, and building advanced semantic search infrastructure. I bridge the gap between complex AI research and resilient, production-grade software engineering.
 
 ---
 
-### 🛠️ What I'm Up To
-*   **🔭 Currently Building:** [yoho](https://www.yoho.io) – Architecting production-ready AI pipelines and intelligent multi-agent systems.
-*   **🧠 Deep Dives:** Optimizing hybrid search methodologies (Dense & Sparse embeddings via BGE-M3) and vector databases.
-*   **💼 Core Expertise:** Scalable microservices, asynchronous task queues, and e-commerce automation widgets.
+### 🔭 What I'm Focused On
+
+*   **Core Venture:** Co-founding and building **[Charkh](https://www.charkh.io)**, focusing on integrating complex LLM/AI pipelines directly into scalable production ecosystems.
+*   **Semantic Search & RAG:** Architecting enterprise hybrid search pipelines (combining Dense & Sparse embeddings via models like BGE-M3) with heavy-duty vector databases.
+*   **Agentic Workflows:** Designing stateful, multi-agent chatbot systems capable of handling dynamic inventory constraints, real-time context management, and external API tool-calling.
+*   **System Performance:** Optimizing asynchronous API patterns, data streaming, and efficient indexing strategies for high-throughput applications.
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🧰 Technical Arsenal
 
-| Category | Technologies |
-| :--- | :--- |
-| **Backend & APIs** | `Python` `FastAPI` `Asynchronous Programming` `RESTful APIs` |
-| **AI & Search** | `LLMs & Multi-Agent Frameworks` `Milvus` `Vector Databases` `Hybrid Search` |
-| **Databases & DevOps** | `MongoDB` `PostgreSQL` `Docker` `Git / GitHub CI-CD` |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 AI & Search Infrastructure</h4>
+      <ul>
+        <li><b>Vector DBs:</b> Milvus, Qdrant, Chromadb</li>
+        <li><b>Search Methodologies:</b> Hybrid Search, Cross-Encoder Re-ranking, Dense/Sparse Retrieval</li>
+        <li><b>Frameworks:</b> LangChain, LlamaIndex, Custom Multi-Agent Frameworks</li>
+        <li><b>LLMs:</b> OpenAI API, Anthropic Claude, Open-source LLM deployment</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Backend & Engineering</h4>
+      <ul>
+        <li><b>Languages:</b> Python (Expert), SQL, Bash</li>
+        <li><b>Frameworks:</b> FastAPI, Tortoise-ORM, Pydantic, Celery</li>
+        <li><b>Databases:</b> MongoDB, PostgreSQL, Redis (Caching & Queues)</li>
+        <li><b>DevOps & Tools:</b> Docker, Docker Compose, Git, GitHub Actions CI/CD</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Key Architectural Philosophy
+
+*   **Design for Scale:** Prioritizing asynchronous event-driven architectures (`asyncio`, Celery, Redis) to handle heavy concurrent workloads without blocking threads.
+*   **Data-Driven AI:** Believing that an AI system is only as good as its data retrieval layer; heavily focused on precision metadata filtering and semantic accuracy.
+*   **Clean, Maintainable Code:** Deep adherence to SOLID principles, strict type hinting, automated testing pipelines, and explicit environment isolation.
 
 ---
 
@@ -37,6 +64,9 @@ I specialize in building robust backend architectures, integrating scalable AI/L
 
 ---
 
-### 🤝 Connect With Me
-*   **Website:** [charkh.io](https://www.charkh.io)
-*   **Inquiries:** Feel free to open an issue or reach out via my portfolio links if you want to collaborate on AI-driven products or advanced search architectures!
+### 🤝 Let's Connect
+
+I am always open to discussing complex system design, semantic search patterns, or AI integration strategies.
+
+*   **Project Hub:** [charkh.io](https://www.charkh.io)
+*   **Reach Out:** Drop me an issue or connect through my project contact channels if you want to collaborate on cutting-edge AI software engineering!
