@@ -1,4 +1,4 @@
-# Hey there, I'm Malo! 👋
+# Hey there, I'm Mahdi Lotfi! 👋
 
 ### 🚀 Senior Backend & AI Systems Engineer
 I specialize in architecting highly scalable backend systems, designing production-ready multi-agent AI workflows, and building advanced semantic search infrastructure. I bridge the gap between complex AI research and resilient, production-grade software engineering.
