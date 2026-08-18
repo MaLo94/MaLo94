@@ -52,14 +52,21 @@ I specialize in architecting highly scalable backend systems, designing producti
 ### 📊 GitHub Analytics
 
 <table border="0" width="100%">
- <tr>
+  <tr>
     <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=malo94&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&icon_color=fff&text_color=fff&card_width=400&line_height=27" alt="Malo's GitHub Stats" />
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=malo94&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&icon_color=fff&text_color=fff&card_width=400&line_height=27"
+        alt="Malo's GitHub Stats"
+      />
     </td>
+
     <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malo94&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=4" alt="Top Languages" />
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=malo94&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=4"
+        alt="Top Languages"
+      />
     </td>
- </tr>
+  </tr>
 </table>
 
 ---
